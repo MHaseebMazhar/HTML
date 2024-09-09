@@ -1,0 +1,30 @@
+div {
+  height: 500px;
+  width: 350px;
+  background-color: rgb(107, 179, 155);
+  border: 8px solid rgb(218, 98, 98);
+  text-align:center;
+}
+body {
+background-color: rgb(163, 185, 185);
+display: flex;
+justify-content:space-evenly;}
+button{
+    height: 30px;
+    width: 90px;
+    font-size: large ;
+    
+    border: 2px solid rgb(18, 131, 12);
+    background-color: rgb(228, 232, 236);
+    color: rgb(0, 0, 0);
+    
+}
+input{
+    width: 178px;
+}
+#First{
+    width: 165px;
+}
+p{
+    text-decoration: underline brown;
+}
